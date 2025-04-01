@@ -1,0 +1,10 @@
+ 
+<!DOCTYPE html>
+<html>
+<head><title>Editor Dashboard</title></head>
+<body>
+    <h1>Welcome, Editor {{ current_user.username }}</h1>
+    <p>This is the editor page (admin/editor access).</p>
+    <a href="{{ url_for('logout') }}">Logout</a>
+</body>
+</html>
