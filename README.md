@@ -1,6 +1,7 @@
 # rbac_demo
-Creating a simple RBAC system using free and open source software
+Creating a simple RBAC system using free and open source software.
 Tools used:
+
 Python: For the backend logic.
 
 Flask: A lightweight web framework.
